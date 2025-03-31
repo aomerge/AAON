@@ -15,6 +15,9 @@ Cambio de la rama desde Jira
 ## Cambio Task
 Diseño de base de datos para usuarios. Resolviendo PDDWA-2. 
 
+## Realizar Bug
+ Corregido error en validación del formulario de registro. Resolviendo PDDWA-3
+
 
 ## Historia de usuario
 
