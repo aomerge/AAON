@@ -11,3 +11,7 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 - Java SpringBoot
 
 Cambio de la rama desde Jira
+
+## Historia de usuario
+
+Crear la funcionalidad de registro de usuario en la aplicación web.
