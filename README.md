@@ -12,6 +12,11 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 
 Cambio de la rama desde Jira
 
+## Cambio Task
+Diseño de base de datos para usuarios. Resolviendo PDDWA-2. 
+
+
 ## Historia de usuario
 
 Crear la funcionalidad de registro de usuario en la aplicación web.
+
