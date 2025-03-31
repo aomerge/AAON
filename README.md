@@ -11,3 +11,7 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 - Java SpringBoot
 
 Cambio de la rama desde Jira
+
+## Cambio Task
+Diseño de base de datos para usuarios. Resolviendo PDDWA-2. 
+
