@@ -16,5 +16,4 @@ Cambio de la rama desde Jira
 Diseño de base de datos para usuarios. Resolviendo PDDWA-2. 
 
 ## Realizar Bug
- Corregido error en validación del formulario de registro. Resolviendo PDDWA-3.
-
+ Corregido error en validación del formulario de registro. Resolviendo PDDWA-3
