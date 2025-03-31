@@ -17,3 +17,9 @@ Diseño de base de datos para usuarios. Resolviendo PDDWA-2.
 
 ## Realizar Bug
  Corregido error en validación del formulario de registro. Resolviendo PDDWA-3
+
+
+## Historia de usuario
+
+Crear la funcionalidad de registro de usuario en la aplicación web.
+
